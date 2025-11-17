@@ -1,3 +1,6 @@
 # newrelic-use-bug
 
-To reproduce, just run `tsx --env-file .env ./app.ts`
+To reproduce just run:
+```
+npx tsx --env-file .env ./app.ts`
+```
